@@ -9,6 +9,9 @@ The script has only been tested on Ubuntu-20.04, but it should run on most Linux
 2. Run the following command to allow the file to be executed: "chmod +x Zabbix_Agent-Installer.sh"
 3. Run the script with: ./Zabbix_Agent-Installer.sh
 
+# Zabbix Agent support
+The script changes parameters for both active and passive agent, so both active or passive agent template can be chosen by the Zabbix monitor server.
+
 # Encryption support
 The script only supports PSK encryption or no encryption at the moment.
 
