@@ -25,7 +25,7 @@ else
     echo "Done"
 fi
 
-#Runs through the basic lines to configures Zabbix-agent
+#Runs through the basic lines to configure Zabbix-agent
 continue_exec () {
 read -r -p "Do you want to use PSK encryption(yes or no)?" pskvalue
 case $pskvalue in
