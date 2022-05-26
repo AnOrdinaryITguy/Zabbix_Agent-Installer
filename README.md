@@ -9,7 +9,7 @@ The script has only been tested on Ubuntu-20.04, but it should run on most Linux
 2. Run the following command to allow the file to be executed: "chmod +x XXXX.sh"
 3. Run the file with: ./
 
-# Encryption support:
+# Encryption support
 The script only supports PSK encryption or no encryption at the moment.
 
 # Files created by the script
