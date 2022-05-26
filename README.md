@@ -7,7 +7,7 @@ The script has only been tested on Ubuntu-20.04, but it should run on most Linux
 # Installation
 1. Download "Zabbix_Agent-Installer.sh" or copy the raw text to a .sh file.
 2. Run the following command to allow the file to be executed: "chmod +x Zabbix_Agent-Installer.sh.sh"
-3. Run the file with: ./Zabbix_Agent-Installer.sh
+3. Run the script with: ./Zabbix_Agent-Installer.sh
 
 # Encryption support
 The script only supports PSK encryption or no encryption at the moment.
