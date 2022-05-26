@@ -1,5 +1,5 @@
 # Zabbix_Agent-Installer
-This bash script to makes it easier and faster to deploy Zabbix Agents.
+This bash script to makes it easier and faster to deploy Zabbix Agents on Ubuntu.
 
 # Testing
 The script has only been tested on Ubuntu-20.04, but it should run on most Linux distributions with minor changes.
